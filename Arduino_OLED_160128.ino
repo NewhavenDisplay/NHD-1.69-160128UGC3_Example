@@ -9,12 +9,8 @@
  ------> http://www.newhavendisplay.com/nhd169160128ugc3-p-5603.html
  
  This code is written for the Arduino Uno R3.
- 
-<<<<<<< HEAD
- Copyright (c) 2014 - Newhaven Display International, Inc.
-=======
+
  Copyright (c) 2015 - Newhaven Display International, LLC.
->>>>>>> origin/master
  
  Newhaven Display invests time and resources providing this open source code,
  please support Newhaven Display by purchasing products from Newhaven Display!
