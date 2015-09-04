@@ -1,7 +1,7 @@
 //---------------------------------------------------------
 /*
  
- NHD_1_69_160128UGC3_example_uno.ino
+ test.ino
  
  Program for writing to Newhaven Display 160x128 Graphic Color OLED with SEPS525 controller.
  
