@@ -3,7 +3,7 @@ NHD-1.69-160128UGC3 Example Code:
 
 test.ino
  
- Program for writing to Newhaven Display 160x128 Graphic Color OLED with SEPS525 controller.
+ Program for writing to Newhaven Display's 160x128 Graphic Color OLED with SEPS525 controller.
  
  Pick one up today in the Newhaven Display shop!
  
